@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\0_kulker\\II_évfolyam\\asztali_rest_apiDoga\\Library\\saclient\\saclient_1.0.2.jar"
+    ]
+}
